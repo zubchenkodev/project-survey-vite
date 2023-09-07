@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# Music Releases
+# Survey Project
 
 Replace this readme with your own information about your project.
 

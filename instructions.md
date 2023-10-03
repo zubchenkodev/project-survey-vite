@@ -22,7 +22,7 @@ Feel free to use other survey tools such as Typeform, Google Forms as inspiratio
 - At least one question should use a select dropdown.
 - There should be a submit button. When pressed your app should hide the input form and show a summary of the user's submissions.
 - Your page should be responsive
-- Your page should follow accessibility guidelines
+
 
 ## Stretch goals
 So you’ve completed the requirements? Great job! Make sure you've committed and pushed a version of your project before starting on the stretch goals. Remember that the stretch goals are optional.
